@@ -10,6 +10,7 @@ Before attempting to publish transactions to QuickBooks, ensure that each involv
 configured in the Integrations section. **If a crypto token is not configured, KwickBit will display an orange
 banner to warn you that transactions involving this unconfigured token cannot be published to QuickBooks.**
 Proper configuration is essential for accurate financial reporting and reconciliation.
+
 ![Warning non set token mapping](../resources/screenshots/transactions_page/list_token_non_mapped.png)
 
 
@@ -22,12 +23,15 @@ Proper configuration is essential for accurate financial reporting and reconcili
 ### Viewing and Splitting Transaction Details
 
 1. To access more information about a transaction, click the "View" button next to the transaction in the list. This will open a modal with detailed information.
+
 ![Click View button](../resources/screenshots/transactions_page/list_token_mapped_click_view.png)
 
 2. In this modal, you can split the transaction amount into different sub-amounts for more detailed accounting in QuickBooks.
+
 ![Transaction modal](../resources/screenshots/transactions_page/view_transaction_non_mapped_click_plus_button.png)
 
 3. After categorizing and confirming the transaction details, click the "Publish" button.
+
 ![Publish transaction](../resources/screenshots/transactions_page/view_transaction_sub_amounts_click_publish.png)
 
 4. There is no need to refresh the page; the transaction list will update automatically once the transaction is successfully published to QuickBooks.
@@ -35,6 +39,7 @@ Proper configuration is essential for accurate financial reporting and reconcili
 
 ### Fetching Latest Transactions
 To ensure you are viewing the most up-to-date transaction data, click the "Fetch" button, symbolized by a two-arrows circle icon. This will update your transaction list with the latest activities from your wallets and QuickBooks.
+
 ![Feching latest transaction](../resources/screenshots/transactions_page/list_transactions_click_fetch_latest_transactions.png)
 
 

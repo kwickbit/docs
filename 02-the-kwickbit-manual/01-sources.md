@@ -7,18 +7,23 @@ The Sources section in KwickBit allows users to manage their cryptocurrency wall
 To start tracking your transactions in KwickBit, you first need to add your cryptocurrency wallet as a source. Here's how:
 
 1. **Navigate to the Sources Page**: Access KwickBit and go to the 'Sources' page from the dashboard.
+
 ![List wallets](../resources/screenshots/sources_page/list_non_empty.png)
 
 2. **Add a New Source**: If you don't have any source wallets added, you'll see a prompt to add one. Click on 'Add Source'.
+
 ![Add a new source](../resources/screenshots/sources_page/list_non_empty_add_source.png)
 
 3. **Select Blockchain**: Choose the blockchain of your wallet from the list of supported blockchains.
+
 ![Select a Blockchain](../resources/screenshots/sources_page/add_source_select_blockchain.png)
 
 4. **Name and Address**: Give your wallet a memorable name and paste its public address. Alternatively, use Freighter to securely add your wallet.
+
 ![Copy paste public address](../resources/screenshots/sources_page/add_source_enter_details_1.png)
 
     (Optional) You can also paste your address from Freighter wallet
+
 ![Paste address from Freighter wallet](../resources/screenshots/sources_page/add_source_enter_details_2.png)
 
 5. **Fetch Transactions**: Upon adding your wallet, KwickBit will automatically fetch its transactions from the blockchain. These transactions will be available in the 'Transactions' section.
