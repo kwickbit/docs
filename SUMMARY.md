@@ -12,10 +12,9 @@
     * [Part 7: Reconciliation](/01-accounting-concepts/07-reconciliation.md)
 
 * [KwickBit manual](/02-the-kwickbit-manual/README.md)
-  * [Part 1: Sources page](/02-the-kwickbit-manual/01-sources.md)
-  * [Part 2: Integration page](/02-the-kwickbit-manual/02-integrations.md)
-  * [Part 3: Understanding Token mapping](/02-the-kwickbit-manual/03-token-mappings.md)
-  * [Part 4: Transactions page](/02-the-kwickbit-manual/04-transactions.md)
-
-
+  * [Part 1: Signup and Login](/02-the-kwickbit-manual/01-create-an-account.md)
+  * [Part 2: Sources page](/02-the-kwickbit-manual/02-sources.md)
+  * [Part 3: Integration page](/02-the-kwickbit-manual/03-integrations.md)
+  * [Part 4: Understanding Token mapping](/02-the-kwickbit-manual/04-token-mappings.md)
+  * [Part 5: Transactions page](/02-the-kwickbit-manual/05-transactions.md)
 
